@@ -1,4 +1,4 @@
-import { SlideGesture } from './node_modules/@nicufarmache/slide-gesture/index.js';
+import { SlideGesture } from 'https://unpkg.com/@nicufarmache/slide-gesture/index.js';
 
 const el = document.getElementById("el");
 const handler = (evt, extra) => {
